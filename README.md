@@ -1,5 +1,6 @@
-# Smart-Switch 
+# tempe
 Es copia de https://github.com/ruchir1675/Smart-Switch
+La usar´e para hacer pruebas con Alexa
 
 Control a relay based on temperature and humidity using ESP8266 or NodeMCU and Alexa.
 
